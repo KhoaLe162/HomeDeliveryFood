@@ -22,13 +22,7 @@ public class ShipperPanel {
 	private JFrame frame;
 		
 
-	/**
-	 * Launch the application.
-	 */
 	
-
-	
-		
 
 	public ShipperPanel() {
 		ShipperPanelComponent();
